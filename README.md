@@ -94,8 +94,8 @@ If you encounter a bug or have a feature suggestion, please open an issue in the
 
 ## 📧 **Support**
 
-For support or questions, contact us:  
-📬 **gunduzmedyaofficial@gmail.com**
+For support or questions, contact:  
+📬 **baris@gunduzmedya.com**
 
 ---
 
