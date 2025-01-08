@@ -1,0 +1,77 @@
+body {
+  background: linear-gradient(135deg, #2a2d3e, #3b4055);
+}
+
+.app-container {
+  font-family: 'Roboto', sans-serif;
+  width: 400px;
+  padding: 15px;
+  background: linear-gradient(135deg, #2a2d3e, #3b4055);
+  border-radius: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.clear-button {
+  background-color: #d9534f;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 45%;
+}
+
+.timer-container, .tasklist-container, .active-task {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.task-input {
+  width: calc(100% - 20px);
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background: #fff;
+  color: #333;
+}
+
+.export-button {
+  background-color: #ffa500;
+  color: white;
+  width: 45%;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.tasklist {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+
+.task-item {
+  font-size: 14px;
+  padding: 5px 0;
+  display: flex;
+  align-items: center;
+}
+
+.task-icon {
+  margin-right: 10px;
+  color: #4caf50;
+}
+
+.active-task {
+  background-color: #444;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}
