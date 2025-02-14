@@ -120,3 +120,10 @@ See the [LICENSE](LICENSE) file for more details.
 Developed and maintained by **Gündüz Medya**.  
 
 If you enjoy using **ProTaskTimer**, consider giving the project a ⭐️ on GitHub! 😊🚀
+
+---
+
+## 🤝 Referral & Sponsorships
+[![Powered by DigitalOcean](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=525051e9e7a7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+🚀 Happy coding! Feel free to contribute and explore! 😊
